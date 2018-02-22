@@ -3,7 +3,12 @@
   "name": "SCM Maestro DataLink",
   "icons": [
     {
-      "src": "scm-logo-md.jpg",
+      "src": "scm-logo-md.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "scm-logo-md.png",
       "type": "image/png",
       "sizes": "96x96"
     }
