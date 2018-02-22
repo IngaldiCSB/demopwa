@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A simple Progressive Web App demo with Push Notifications",
   "main": "index.js",
+  "start": "node index.js",
   "engines": {
     "node": "6.11.4"
   },
