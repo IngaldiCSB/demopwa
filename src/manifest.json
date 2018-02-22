@@ -1,0 +1,12 @@
+{
+  "short_name": "Maestro DataLink",
+  "name": "SCM Maestro DataLink",
+  "icons": [
+    {
+      "src": "scm-logo-md.jpg",
+      "type": "image/png",
+      "sizes": "96x96"
+    }
+  ],
+  "start_url": "index.html?launcher=true"
+}
