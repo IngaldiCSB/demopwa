@@ -1,0 +1,19 @@
+{
+  "name": "demopwa",
+  "version": "1.0.0",
+  "description": "A simple Progressive Web App demo with Push Notifications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IngaldiCSB/demopwa.git"
+  },
+  "author": "Carmine Ingaldi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IngaldiCSB/demopwa/issues"
+  },
+  "homepage": "https://github.com/IngaldiCSB/demopwa#readme"
+}
