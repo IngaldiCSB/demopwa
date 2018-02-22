@@ -3,7 +3,7 @@ var app = express();
 
 
 // Define the port to run on
-app.set('port', process.env.PORT || 3000);
+app.set('port', process.env.PORT || 80);
 
 app.use(express.static(__dirname + '/src'));
 
