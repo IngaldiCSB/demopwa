@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/IngaldiCSB/demopwa/issues"
   },
-  "homepage": "https://github.com/IngaldiCSB/demopwa#readme"
+  "homepage": "https://github.com/IngaldiCSB/demopwa#readme",
+  "devDependencies": {
+    "express": "^4.16.2"
+  }
 }
