@@ -1,6 +1,6 @@
 console.log("app started");
 
-var express = require('express');
+/*var express = require('express');
 var app = express();
 
 // Define the port to run on
@@ -19,4 +19,4 @@ app.get('/', function(req, res) {
 var server = app.listen(app.get('port'), function() {
   var port = server.address().port;
   console.log('server listening on port' + port);
-});
+});*/
